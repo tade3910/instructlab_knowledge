@@ -123,6 +123,6 @@ seed_examples:
 task_description: 'To teach a language model about tabby cats'
 document:
  repo: https://github.com/tade3910/instructlab_knowledge
- commit: 3536fa736512e3542ab59b6496ede5bd17884fd0
+ commit: c9a4870191a475bac6d64df3244dd2f5b5921318
  patterns:
-  - tabby_cat.md   
+  - monkey_d_luffy.md   
